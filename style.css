@@ -1,0 +1,107 @@
+body,
+.gradient-bg {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: repeat;
+  background-image: url("data:image/svg+xml;utf8,%3Csvg width=%222000%22 height=%221400%22 xmlns=%22http:%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cdefs%3E%3ClinearGradient id=%22a%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23edad0b%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23f1c148%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22b%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23dba312%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23e4ba4d%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22c%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23c9981a%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23d6b153%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22d%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23b78e22%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23c9aa59%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22e%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23a58329%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23bba25e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22f%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23937931%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23ae9a64%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22g%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23816e39%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23a0926a%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22h%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%236f6440%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23938a6f%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22i%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%235d5948%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23858275%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22j%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%235c5a4d%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23848379%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22k%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%236b654e%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23908b7a%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22l%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%237b704f%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%239c937b%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22m%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%238b7c51%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23a89c7c%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22n%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%239a8752%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23b3a57d%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22o%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23aa9354%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23bfae7e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22p%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23b99e55%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23cab67f%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22q%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23c9a956%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23d6be80%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22r%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23d8b558%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23e1c781%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22s%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23e8c059%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23edcf82%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath fill=%22%23ffb803%22 d=%22M0 0h2000v1400H0z%22%2F%3E%3Cpath d=%22M0 70c88.048-1.633 176.095-3.266 276 0s211.667 11.432 302 8c90.333-3.432 159.239-18.461 250-19 90.761-.539 203.38 13.412 304 17 100.62 3.588 189.244-3.188 292-9 102.756-5.812 219.645-10.66 318-10 98.355.66 178.178 6.83 298 13l-40 1330H0Z%22 fill=%22url(%23a)%22%2F%3E%3Cpath d=%22M0 140c83.5.923 166.999 1.845 258 3s189.504 2.541 286 3c96.496.459 190.984-.01 292-3 101.016-2.99 208.561-8.503 312-13s202.772-7.98 293-4c90.228 3.98 171.35 15.423 263 19s193.825-.711 336-5l-40 1260H0Z%22 fill=%22url(%23b)%22%2F%3E%3Cpath d=%22M0 210c104.534 4.936 209.068 9.873 303 12 93.932 2.127 177.262 1.445 269-3s191.886-12.652 290-17c98.114-4.348 194.196-4.835 288 0s185.332 14.994 281 15c95.668.006 195.477-10.141 291-13s186.762 1.57 318 6l-40 1190H0Z%22 fill=%22url(%23c)%22%2F%3E%3Cpath d=%22M0 280c88.472-4.385 176.944-8.77 270-6 93.056 2.77 190.694 12.698 286 16 95.306 3.302 188.278-.021 287 0 98.722.021 203.194 3.387 301-3 97.806-6.387 188.948-22.527 286-21 97.052 1.527 200.015 20.722 296 26 95.985 5.278 184.993-3.361 314-12l-40 1120H0Z%22 fill=%22url(%23d)%22%2F%3E%3Cpath d=%22M0 350c92.764 3.757 185.527 7.514 284 10 98.473 2.486 202.655 3.703 304-2 101.345-5.703 199.852-18.324 295-22 95.148-3.676 186.937 1.592 283 5 96.063 3.408 196.402 4.956 283 8 86.598 3.044 159.457 7.584 249 8 89.543.416 195.772-3.292 342-7l-40 1050H0Z%22 fill=%22url(%23e)%22%2F%3E%3Cpath d=%22M0 420c86.167 6.31 172.334 12.62 267 11 94.666-1.62 197.83-11.169 295-15 97.17-3.831 188.347-1.944 286-2 97.653-.056 201.783-2.056 307-3 105.217-.944 211.52-.831 298 1 86.48 1.831 153.137 5.38 241 7s196.931 1.31 346 1l-40 980H0Z%22 fill=%22url(%23f)%22%2F%3E%3Cpath d=%22M0 490c85.44-2.879 170.88-5.757 261-6 90.12-.243 184.918 2.151 287 2 102.082-.151 211.447-2.847 310 1s186.292 14.237 286 12 211.383-17.102 309-17c97.617.102 181.176 15.172 270 19 88.824 3.828 182.912-3.586 317-11l-40 910H0Z%22 fill=%22url(%23g)%22%2F%3E%3Cpath d=%22M0 560c85.535-3.184 171.07-6.368 269-5 97.93 1.368 208.254 7.286 307 9 98.746 1.714 185.913-.778 285-5 99.087-4.222 210.096-10.173 308-7s182.705 15.47 266 14c83.295-1.47 165.084-16.706 259-20 93.916-3.294 199.958 5.353 346 14l-40 840H0Z%22 fill=%22url(%23h)%22%2F%3E%3Cpath d=%22M0 630c88.48 4.48 176.958 8.96 271 6 94.042-2.96 193.646-13.362 290-17 96.354-3.638 189.457-.514 284 3 94.543 3.514 190.527 7.416 284 8 93.473.584 184.435-2.15 281 0s198.733 9.186 298 10c99.267.814 195.634-4.593 332-10l-40 770H0Z%22 fill=%22url(%23i)%22%2F%3E%3Cpath d=%22M0 700c80.547 4.804 161.094 9.608 263 7 101.906-2.608 225.17-12.627 326-14 100.83-1.373 179.225 5.9 262 11s169.93 8.027 265 2c95.07-6.027 198.057-21.007 301-20 102.943 1.007 205.84 18.002 303 23 97.16 4.998 188.58-2.001 320-9l-40 700H0Z%22 fill=%22url(%23j)%22%2F%3E%3Cpath d=%22M0 770c78.36-9.068 156.72-18.137 259-14 102.28 4.137 228.483 21.479 329 23 100.517 1.521 175.348-12.777 259-13 83.652-.223 176.123 13.631 277 17 100.877 3.369 210.16-3.747 306-11s178.24-14.644 271-15c92.76-.356 195.88 6.322 339 13l-40 630H0Z%22 fill=%22url(%23k)%22%2F%3E%3Cpath d=%22M0 840c90.818 1.2 181.636 2.4 283-1s213.275-11.397 314-9c100.725 2.397 190.263 15.19 272 19 81.737 3.81 155.672-1.36 250-3s209.05.25 307-1c97.95-1.25 179.129-5.643 272-7 92.871-1.357 197.436.322 342 2l-40 560H0Z%22 fill=%22url(%23l)%22%2F%3E%3Cpath d=%22M0 910c104.358-6.705 208.716-13.41 303-14 94.284-.59 178.493 4.934 266 11s178.313 12.672 279 13c100.687.328 211.256-5.623 306-11s173.662-10.178 265-7c91.338 3.178 195.097 14.337 294 17 98.903 2.663 192.952-3.168 327-9l-40 490H0Z%22 fill=%22url(%23m)%22%2F%3E%3Cpath d=%22M0 980c85.396 2.937 170.791 5.874 259 4 88.209-1.874 179.23-8.56 284-11 104.77-2.44 223.286-.634 330 1s201.624 3.098 297 1 191.217-7.757 285-8c93.783-.243 185.51 4.93 276 8 90.49 3.07 179.745 4.035 309 5l-40 420H0Z%22 fill=%22url(%23n)%22%2F%3E%3Cpath d=%22M0 1050c95.184-1.536 190.368-3.072 289 0s200.712 10.754 298 13c97.288 2.246 189.784-.942 286-4 96.216-3.058 196.15-5.985 289-5 92.85.985 178.613 5.88 267 4s179.396-10.537 275-13c95.604-2.463 195.802 1.269 336 5l-40 350H0Z%22 fill=%22url(%23o)%22%2F%3E%3Cpath d=%22M0 1120c95.694-2.296 191.388-4.592 279-7 87.612-2.408 167.143-4.927 267-5 99.857-.073 220.039 2.3 328 6 107.961 3.7 203.7 8.723 287 12 83.3 3.277 154.157 4.805 248 2 93.843-2.805 210.67-9.944 313-12 102.33-2.056 190.165.972 318 4l-40 280H0Z%22 fill=%22url(%23p)%22%2F%3E%3Cpath d=%22M0 1190c88.403 4.886 176.806 9.773 269 5 92.194-4.773 188.18-19.204 286-17 97.82 2.204 197.474 21.044 300 20 102.526-1.044 207.925-21.97 302-22 94.075-.03 176.828 20.838 272 24 95.172 3.162 202.763-11.382 300-16s184.118.691 311 6l-40 210H0Z%22 fill=%22url(%23q)%22%2F%3E%3Cpath d=%22M0 1260c81.351 5.091 162.702 10.182 259 11 96.298.818 207.543-2.637 317-3s217.125 2.367 305 3 155.956-.83 249-8c93.044-7.17 211.05-20.046 304-17 92.95 3.046 160.843 22.013 251 27 90.157 4.987 202.579-4.007 355-13l-40 140H0Z%22 fill=%22url(%23r)%22%2F%3E%3Cpath d=%22M0 1330c83.418-4.158 166.837-8.316 265-6 98.163 2.316 211.072 11.106 305 11 93.928-.106 168.876-9.109 266-12s216.425.328 311 4c94.575 3.672 164.424 7.796 254 9 89.576 1.204 198.879-.513 302-2 103.121-1.487 200.06-2.743 337-4l-40 70H0Z%22 fill=%22url(%23s)%22%2F%3E%3C%2Fsvg%3E");
+}
+nav,
+footer {
+  height: 90px;
+}
+
+.dropdown-menu,
+.form-bg {
+  background-color: rgb(250, 250, 182);
+}
+.bg-nav {
+  background-color: rgb(242, 201, 124);
+}
+.logo {
+  max-width: 80px;
+}
+
+.dropdown-menu li a:hover {
+  color: black !important;
+  background: rgb(248, 236, 133) !important;
+}
+
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
+}
+.banner {
+  height: 500px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.unsplash.com/photo-1554357395-dbdc356ca5da?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1 {
+  background-color: rgba(238, 189, 27, 0.1);
+  padding: 0 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  letter-spacing: 2px;
+}
+
+.fixed-width {
+  max-width: 150px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.navbar-style {
+  border-color: #ae142a;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  background-color: #ae142a;
+  padding: 6px 12px !important;
+  margin: 0px 0px 0px 10px;
+}
+.navbar-style:hover {
+  color: #fff;
+  background-color: #eaa10f !important;
+  border-color: #e4a52f !important;
+}
+
+.btn-primary,
+.btn-secondary,
+.btn-warning,
+.btn-danger,
+.btn-success,
+.category-btn {
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: #fff;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.radio-label {
+  display: block;
+  padding: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 0.5em;
+}
+.radio-input:checked + .radio-label {
+  background-color: #198754;
+  background-image: linear-gradient(180deg, #198754, #198754);
+  color: white;
+}
